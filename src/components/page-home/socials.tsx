@@ -20,23 +20,23 @@ type SocialType = {
 
 const icons: SocialType[] = [
   {
-    path: "/",
+    path: "https://discord.gg/ZgMjQJ3m",
     name: <RiDiscordFill />,
   },
   {
-    path: "/",
+    path: "https://www.linkedin.com/in/radenagus17/",
     name: <RiLinkedinFill />,
   },
   {
-    path: "/",
+    path: "https://github.com/radenagus17",
     name: <RiGithubFill />,
   },
   {
-    path: "/",
+    path: "https://instagram.com/radenagus17_",
     name: <RiInstagramFill />,
   },
   {
-    path: "/",
+    path: "https://twitter.com/radenagus17_",
     name: <RiTwitterFill />,
   },
 ];
@@ -45,7 +45,7 @@ const Socials: FC<SocialsProps> = ({ containerStyles, iconsStyles }) => {
   return (
     <div className={`${containerStyles}`}>
       {icons.map((item: SocialType, i: number) => (
-        <Link key={i} href={item.path}>
+        <Link key={i} href={item.path} target="_blank">
           <div className={`${iconsStyles}`}>{item.name}</div>
         </Link>
       ))}

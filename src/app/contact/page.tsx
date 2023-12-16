@@ -1,9 +1,9 @@
-import React, { FC } from "react";
+import ContactMe from "@/components/page-contact/contactMe";
 
-interface ContactPageProps {}
-
-const ContactPage: FC<ContactPageProps> = ({}) => {
-  return <div>ContactPage</div>;
-};
-
-export default ContactPage;
+export default function Contact() {
+  return (
+    <main>
+      <ContactMe />
+    </main>
+  );
+}

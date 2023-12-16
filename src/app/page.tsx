@@ -1,11 +1,19 @@
+import About from "@/components/page-home/about";
+import Cta from "@/components/page-home/cta";
 import Hero from "@/components/page-home/hero";
-import Image from "next/image";
+// import Reviews from "@/components/page-home/reviews";
+import Services from "@/components/page-home/services";
+import Work from "@/components/page-home/work";
 
 export default function Home() {
   return (
     <main>
       <Hero />
-      <div className="min-h-[1200px]"></div>
+      <About />
+      <Services />
+      <Work />
+      {/* <Reviews /> */}
+      <Cta />
     </main>
   );
 }

@@ -1,9 +1,9 @@
-import React, { FC } from "react";
+import ListProjects from "@/components/page-projects/listProjects";
 
-interface ProjectsPageProps {}
-
-const ProjectsPage: FC<ProjectsPageProps> = ({}) => {
-  return <div>ProjectsPage</div>;
-};
-
-export default ProjectsPage;
+export default function Projects() {
+  return (
+    <main>
+      <ListProjects />
+    </main>
+  );
+}
