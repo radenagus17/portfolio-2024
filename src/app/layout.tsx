@@ -15,10 +15,10 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title: "R. Agus Iman Sudrajat - Software Engineer",
-    url: "https://radenagus17_vercel.app",
+    url: "https://radenagus17.vercel.app",
     type: "website",
     description:
-      "JA reliable software engineer who provides web and mobile application creation services for both Android and iOS systems",
+      "A reliable software engineer who provides web and mobile application creation services for both Android and iOS systems",
     siteName: "R. Agus Iman Sudrajat",
   },
 };
