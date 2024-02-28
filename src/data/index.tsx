@@ -169,6 +169,15 @@ export const PROJECT_DATA: ProjectType[] = [
     link: "/",
     github: "/",
   },
+  {
+    image: "/assets/work/pokedex.png",
+    category: "next js",
+    name: "Permana Pokedex",
+    description:
+      "Browse the Pokemon list: View all Pokemon from all generations, including information such as name, type, stats, and evolution. Use filters and search to easily find the Pokemon you're looking for.",
+    link: "https://permana-pokedex.vercel.app",
+    github: "https://github.com/radenagus17/permana-pokedex",
+  },
 ];
 
 export const SERVICES_DATA: ServiceType[] = [
