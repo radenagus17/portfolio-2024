@@ -178,6 +178,24 @@ export const PROJECT_DATA: ProjectType[] = [
     link: "https://permana-pokedex.vercel.app",
     github: "https://github.com/radenagus17/permana-pokedex",
   },
+  {
+    image: "/assets/work/ponpesluwu.png",
+    category: "next js",
+    name: "Ponpes Nuruljunaidiyah",
+    description:
+      "Information system and content management system of a web boarding school in South Sulawesi.",
+    link: "https://www.nuruljunaidiyah.com",
+    github: "https://github.com/radenagus17",
+  },
+  {
+    image: "/assets/work/search-country.png",
+    category: "next js",
+    name: "NextJS Search Country",
+    description:
+      "country data search application based on the API from restcountries version 3, using search and useDebounce techniques and fetching detailed data from the country you want to search.",
+    link: "https://search-country-silk.vercel.app",
+    github: "https://github.com/radenagus17",
+  },
 ];
 
 export const SERVICES_DATA: ServiceType[] = [
