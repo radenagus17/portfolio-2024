@@ -196,6 +196,15 @@ export const PROJECT_DATA: ProjectType[] = [
     link: "https://search-country-silk.vercel.app",
     github: "https://github.com/radenagus17",
   },
+  {
+    image: "/assets/work/CarePulse.png",
+    category: "next js",
+    name: "CarePulse Consult With a Doctor",
+    description:
+      "an app that allows you to directly explain your illness to your doctor and schedule regular check-ups.",
+    link: "https://care-pulse-ivory.vercel.app",
+    github: "https://github.com/radenagus17/meet-doctor",
+  },
 ];
 
 export const SERVICES_DATA: ServiceType[] = [
