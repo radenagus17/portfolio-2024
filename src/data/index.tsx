@@ -248,9 +248,14 @@ export const QUALIFICATION_DATA: DataType[] = [
     title: "experience",
     data: [
       {
-        company: "CV. Devta Techno",
+        company: "PT. OS Selnajaya Indonesia",
         role: "Front-end Developer",
-        years: "2018 - Present",
+        years: "2024 - Present",
+      },
+      {
+        company: "Unsircle",
+        role: "Fullstack Developer",
+        years: "2023 - 2024",
       },
       {
         company: "PT. Pola Inti Perkasa",
@@ -258,9 +263,9 @@ export const QUALIFICATION_DATA: DataType[] = [
         years: "2022 - 2023",
       },
       {
-        company: "Unsircle",
-        role: "Fullstack Developer",
-        years: "2023 - Present",
+        company: "CV. Devta Techno",
+        role: "Front-end Developer",
+        years: "2018 - Present",
       },
     ],
   },
@@ -310,7 +315,7 @@ export const INFO_DATA: InfoType[] = [
   },
   {
     icon: <PhoneCall size={20} />,
-    text: "+62 8524 2588 580",
+    text: "+62 838 62 3333 17",
   },
   {
     icon: <MailIcon size={20} />,
@@ -326,6 +331,6 @@ export const INFO_DATA: InfoType[] = [
   },
   {
     icon: <HomeIcon size={20} />,
-    text: "Jl. Malaka II No. 50, Jakarta Barat",
+    text: "Jl. Kebon Kacang III No. 62, Jakarta Pusat",
   },
 ];
