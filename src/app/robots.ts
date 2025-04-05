@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/private/",
     },
-    sitemap: "https://radenagus17.com/sitemap.xml",
+    sitemap: "https://radenagus17.web.id/sitemap.xml",
   };
 }

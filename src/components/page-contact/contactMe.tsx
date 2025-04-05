@@ -37,11 +37,11 @@ const ContactMe: FC<ContactMeProps> = ({}) => {
             </div>
             <div className="flex items-center gap-x-7">
               <HomeIcon size={18} className="text-primary" />
-              <div>Malaka II Street No. 50, West Jakarta City</div>
+              <div>Kebon Kacang III Street No. 62, Central Jakarta City</div>
             </div>
             <div className="flex items-center gap-x-7">
               <PhoneIcon size={18} className="text-primary" />
-              <div>+62 852 425 88 580</div>
+              <div>+62 838 62 3333 17</div>
             </div>
           </div>
           <Form />
