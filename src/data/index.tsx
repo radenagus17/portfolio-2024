@@ -279,13 +279,13 @@ export const SKILL_DATA: DataType[] = [
         name: "HTML, CSS",
       },
       {
-        name: "Front-end Development",
-      },
-      {
         name: "Javascript, Typescript",
       },
       {
-        name: "Back-end Development",
+        name: "Full-stack Development",
+      },
+      {
+        name: "NextJS, ReactJS",
       },
     ],
   },

@@ -28,7 +28,7 @@ const Hero: FC<HeroProps> = ({}) => {
             </div>
             <h1 className="h1 mb-4">Hello, my name is R. Agus Iman Sudrajat</h1>
             <p className="subtitle">
-              Expert Software Engineering bringing 2 years of expertise in
+              Expert Software Engineering bringing 3 years of expertise in
               Technology. Effectively manages assignments and team members.
               Dedicated to self-development to provide expectation-exceeding
               service.
@@ -60,7 +60,7 @@ const Hero: FC<HeroProps> = ({}) => {
             {/* badge 1 */}
             <Badge
               icon={<RiBriefcase4Fill />}
-              endCountNum={2}
+              endCountNum={3}
               badgeText="Years Of Experience"
               endCountText="+"
               containerStyles="absolute top-[24%] -left-[5rem]"
