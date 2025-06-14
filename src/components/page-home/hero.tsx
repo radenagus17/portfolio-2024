@@ -41,7 +41,7 @@ const Hero: FC<HeroProps> = ({}) => {
               </Link>
               <Link
                 download={true}
-                href={"/CV 2024.pdf"}
+                href={"/CV R. Agus Iman Sudrajat - 2025.pdf"}
                 prefetch={false}
                 target="_blank"
               >
