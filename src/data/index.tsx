@@ -324,7 +324,7 @@ export const INFO_DATA: InfoType[] = [
 	},
 	{
 		icon: <PhoneCall size={20} />,
-		text: "+62 838 62 3333 17",
+		text: "+62 852 425 88 580",
 	},
 	{
 		icon: <MailIcon size={20} />,
@@ -340,6 +340,6 @@ export const INFO_DATA: InfoType[] = [
 	},
 	{
 		icon: <HomeIcon size={20} />,
-		text: "Jl. Kebon Kacang III No. 62, Jakarta Pusat",
+		text: "Basura City, Cipinang, East Jakarta",
 	},
 ];
