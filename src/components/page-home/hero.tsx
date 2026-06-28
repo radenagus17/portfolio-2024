@@ -56,7 +56,7 @@ const Hero: FC = () => {
 						{/* badge 1 */}
 						<Badge
 							icon={<RiBriefcase4Fill />}
-							endCountNum={3}
+							endCountNum={4}
 							badgeText="Years Of Experience"
 							endCountText="+"
 							containerStyles="absolute top-[24%] -left-[5rem]"
@@ -64,7 +64,7 @@ const Hero: FC = () => {
 						{/* badge 2 */}
 						<Badge
 							icon={<RiTodoFill />}
-							endCountNum={17}
+							endCountNum={30}
 							badgeText="Finished Projects"
 							endCountText="+"
 							containerStyles="absolute top-[80%] -left-[1rem]"
@@ -72,7 +72,7 @@ const Hero: FC = () => {
 						{/* badge 3 */}
 						<Badge
 							icon={<RiOrganizationChart />}
-							endCountNum={20}
+							endCountNum={50}
 							badgeText="Libraries & Tools"
 							endCountText="+"
 							containerStyles="absolute top-[55%] -right-8"
